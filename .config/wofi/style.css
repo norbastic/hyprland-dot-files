@@ -1,13 +1,13 @@
 #window {
   border-radius: 14px;
-  background-color: #0d1117;
+  background-color: #303F9F;
 }
 
 #input {
   padding: 4px;
   border-radius: 14px 14px 0 0;
   font-size: 16px;
-  background-color: #0d1117;
+  background-color: #1A237E;
   border: none;
   color: #9fd3c7;
 }
@@ -18,7 +18,7 @@
 
 #scroll {
   border-radius: 14px;
-  background-color: #161b22;
+  background-color: #9FA8DA;
   margin: 0 12px 12px;
 }
 
@@ -34,7 +34,7 @@
 
 #entry:selected {
   border-radius: 8px;
-  background-color: #21262d;
+  background-color: #1A237E;
 }
 
 #entry image {
